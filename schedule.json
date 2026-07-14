@@ -1,0 +1,26 @@
+{
+  "wed": [
+    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRID", "meta": "DEEP TECH // 60 MIN" },
+    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
+    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
+    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
+  ],
+  "thu": [
+    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRIDTHU", "meta": "DEEP TECH // 60 MIN" },
+    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
+    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
+    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
+  ],
+  "fri": [
+    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRIDFRI", "meta": "DEEP TECH // 60 MIN" },
+    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
+    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
+    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
+  ],
+  "sat": [
+    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRIDSAT", "meta": "DEEP TECH // 60 MIN" },
+    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
+    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
+    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
+  ]
+}
