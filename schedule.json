@@ -1,26 +1,41 @@
 {
   "wed": [
-    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRID", "meta": "DEEP TECH // 60 MIN" },
-    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
-    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
-    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
-  ],
+    { "start": "15:00", "end": "16:00", "title": "AVIA B2B SHIRO/FOX", "meta": "TECHNO-TRANCE" },
+    { "start": "18:00", "end": "19:00", "title": "OVERWORKED ANIMALS", "meta": "LIVE SET", "special": "FULL BAND PERFORMANCE" },
+    { "start": "20:00", "end": "20:30", "title": "BEAMFLARE", "meta": "PROG. HOUSE / TRANCE" },
+    { "start": "20:30", "end": "21:00", "title": "DSPA1R", "meta": "BASS / TRAP" },
+    { "start": "21:00", "end": "22:00", "title": "ASMUDERA", "meta": "DNB" }
+],
   "thu": [
-    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRIDTHU", "meta": "DEEP TECH // 60 MIN" },
-    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
-    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
-    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
+    { "start": "15:00", "end": "16:00", "title": "RAIN", "meta": "TRANCE" },
+    { "start": "16:00", "end": "16:30", "title": "NOVATOSH", "meta": "BOUNCE / NEORAVE" },
+    { "start": "16:30", "end": "17:00", "title": "[SCIENCEGEY]", "meta": "HOUSE" },
+    { "start": "17:00", "end": "17:30", "title": "SPIROU", "meta": "FILTHY BASS" },
+    { "start": "17:30", "end": "18:00", "title": "LIGHT", "meta": "HARD TECHNO / MELODIC TECHNO" },
+    { "start": "19:00", "end": "20:00", "title": "FOX AMOORE", "meta": "LIVE SET", "special": "LIVE ON KEYS" },
+    { "start": "20:30", "end": "21:00", "title": "PIXEL", "meta": "DARIACORE / HYPERFLIP" },
+    { "start": "21:00", "end": "22:00", "title": "DRAKODOGE + GLEXES", "meta": "HARDSTYLE INSANITY" }
   ],
   "fri": [
-    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRIDFRI", "meta": "DEEP TECH // 60 MIN" },
-    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
-    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
-    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
-  ],
+    { "start": "16:00", "end": "17:00", "title": "WHSPRS", "meta": "LIVE SET", "special": "FOX BOY LIVE" },
+    { "start": "17:30", "end": "18:00", "title": "HOWL", "meta": "DISCO HOUSE" },
+    { "start": "18:00", "end": "18:30", "title": "APOIS", "meta": "HARD BAILE / JERSEY" },
+    { "start": "18:30", "end": "19:00", "title": "STARBURST", "meta": "TROPICAL / FUTURE / PROG. HOUSE (SUMMER VIBES)" },
+    { "start": "19:00", "end": "19:30", "title": "KACHU", "meta": "HYPERPOP / HYPERFLIP" },
+    { "start": "19:30", "end": "20:00", "title": "ODDEYS", "meta": "HARD TECHNO / HARDSTYLE" },
+    { "start": "20:00", "end": "20:30", "title": "ELECTRO", "meta": "HARDSTYLE / XTRA RAW OR FRENCHCORE" },
+    { "start": "20:30", "end": "21:00", "title": "NIBBLER", "meta": "CHROME N' BASS" },
+    { "start": "21:00", "end": "22:00", "title": "LOPROV", "meta": "YES", "special": "AS SEEN ON TV" }
+],
   "sat": [
-    { "start": "14:00", "end": "15:00", "title": "DJ OPENING GRIDSAT", "meta": "DEEP TECH // 60 MIN" },
-    { "start": "15:00", "end": "15:30", "title": "WHSPRS", "meta": "ACOUSTIC GUITAR & VOCAL VARIANTS // 30 MIN", "special": "STAGE SPECIAL" },
-    { "start": "15:30", "end": "16:30", "title": "SUBWOOFER SYMPHONY", "meta": "BASS MUSIC // 60 MIN" },
-    { "start": "16:30", "end": "22:00", "title": "CONTINUOUS AFTERNOON ROTATION", "meta": "OPEN DECK WINDOWS" }
-  ]
+    { "start": "15:00", "end": "16:00", "title": "GANNEN", "meta": "HOUSE N' FUNK" },
+    { "start": "16:00", "end": "16:30", "title": "MEOWOGAI", "meta": "GOA TRANCE+" },
+    { "start": "17:00", "end": "17:30", "title": "FLASH MOB", "meta": "CHOREOGRAPHED PERFORMANCE" },
+    { "start": "18:00", "end": "18:30", "title": "KANAMAU", "meta": "BANANA HOUSE" },
+    { "start": "18:30", "end": "19:00", "title": "AVOIDASTORM", "meta": "TECHNO" },
+    { "start": "19:00", "end": "19:30", "title": "SMD", "meta": "BOUNCY TECHNO/ HARD TRANCE" },
+    { "start": "19:30", "end": "20:00", "title": "QUARZAR", "meta": "DANCEFLOOR DNB" },
+    { "start": "20:30", "end": "21:00", "title": "DAX", "meta": "HARDSTYLE / XTRA RAW OR NEUROFUNK" },
+    { "start": "21:00", "end": "22:00", "title": "BURSTUP", "meta": "HARDTEK", "special": "LAST SET BEFORE DDP" }
+]
 }
